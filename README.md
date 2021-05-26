@@ -1,6 +1,6 @@
 <h1 title="hehehe"> Hey 👋, I'm Sehyion Oh</h1>
 
-<h2> below  </h2>
+<!-- <h2> below  </h2> -->
 
 <a href="https://www.linkedin.com/in/%EC%84%B8%ED%98%84-%EC%98%A4-1438721b9/?originalSubdomain=in#%20add%20your%20Linkedin%20handle">
   <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
