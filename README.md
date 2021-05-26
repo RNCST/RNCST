@@ -25,7 +25,7 @@ Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
 
 <!--   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
   
-<img align="right" alt="GIF" height="450px" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/>
+<img align="right" alt="GIF" height="250px" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/>
 
 
 
