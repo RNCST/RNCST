@@ -1,24 +1,26 @@
-<h1 title="hehehe"> Hey 👋, I'm Sehyion Oh</h1>
+<h1 title="rncst title"> Hey 👋, I'm Sehyion Oh</h1>
 
-<!-- <h2> below  </h2> -->
+<h3> below my linkedin/github/blog/instagram  </h3> 
+<br>
 
 <a href="https://www.linkedin.com/in/%EC%84%B8%ED%98%84-%EC%98%A4-1438721b9/?originalSubdomain=in#%20add%20your%20Linkedin%20handle">
-  <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="osh's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/RNCST">
-  <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
+  <img align="left" alt="osh's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 </a>
 <a href="https://rncst.github.io/">
-  <img align="left" alt="Jaskirat's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />
+  <img align="left" alt="osh's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />
 </a>
 <a href="https://www.instagram.com/ddbbosh/">
-  <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" >
+  <img align="left" alt="osh's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" >
 </a>
 
 
 
+
 <br/>
-<br/>
+<h2> </h2>
 
 Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
  
@@ -56,7 +58,7 @@ Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
 <!-- ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm) -->
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle)
 ![SQLite](https://img.shields.io/badge/-Toad_For_Oracle-003B57?style=flat-square&logo=SQLite)
-![Apache](https://img.shields.io/badge/-Apache_Tomcat-F8DC75?style=flat-square&logo=Apache_Tomcat)
+![ApacheTomcat](https://img.shields.io/badge/-Apache_Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=181717)
 <!-- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff) -->
 <!-- ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff) -->
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
