@@ -7,7 +7,7 @@
   <img align="left" alt="osh's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/RNCST">
-  <img align="left" alt="osh's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
+  <img align="left" alt="osh's github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 </a>
 <a href="https://rncst.github.io/">
   <img align="left" alt="osh's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />
@@ -52,12 +52,12 @@ Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 <!-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff) -->
 <!-- ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff) -->
-<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap) -->
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-<!-- ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff) -->
-<!-- ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm) -->
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle)
-![SQLite](https://img.shields.io/badge/-Toad_For_Oracle-003B57?style=flat-square&logo=SQLite)
+<!-- ![SQLite](https://img.shields.io/badge/-Toad_For_Oracle-003B57?style=flat-square&logo=SQLite) -->
 ![ApacheTomcat](https://img.shields.io/badge/-Apache_Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=181717)
 <!-- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff) -->
 <!-- ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff) -->
@@ -67,7 +67,7 @@ Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
 ![IntelliJ-IDEA](http://img.shields.io/badge/-intelliJ(Community)-2C2255?style=flat-square&logo=IntelliJ%20IDEA&logoColor=ffffff)
-<!-- ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff) -->
+![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![cmd](http://img.shields.io/badge/-cmder-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![NOTION](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion)
