@@ -1,4 +1,4 @@
-<h1 title="rncst title"> Hey 👋, I'm Sehyion Oh</h1>
+<h1 title="rncst title"> Hey 👋, I'm Sehyeon Oh</h1>
 
 <h3> below my linkedin/github/blog/instagram  </h3> 
 <br>
