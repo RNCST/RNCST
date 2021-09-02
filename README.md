@@ -31,20 +31,19 @@ Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
 
 
 
-***About Me!**
+**About Me!**
 
-- 👨🏽‍💻 I’m Studying about WEB-APP DEVELOP
+<!-- - 👨🏽‍💻 I’m Studying about WEB-APP DEVELOP
 - 🌱 I’m currently exploring JAVA, Spring
-- 🤔 My interest lies in front-end web development
+- 🤔 My interest lies in front-end web development -->
 - 💬 Contact me about anything! 
-- 💪🏼 Future Goals: Learn more technologies && To Be Full-Stack Developer
+- 💪🏼 Future Goals: Learn more technologies
 - 📫 Email me at [rk51320928@gmail.com](mailto:rk51320928@gmail.com). 
 
 
 **Try to Use Languages and Tools:**  
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=JSON)
 <!-- ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff) -->
 ![TypeScript](http://img.shields.io/badge/-TypeScript-3776AB?style=flat-square&logo=TypeScript&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -63,7 +62,7 @@ Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
 <!-- ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff) -->
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-<!-- ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab) -->
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
 ![IntelliJ-IDEA](http://img.shields.io/badge/-intelliJ(Community)-2C2255?style=flat-square&logo=IntelliJ%20IDEA&logoColor=ffffff)
