@@ -89,7 +89,7 @@ Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=rncst&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
 <a href="https://github.com/RNCST">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rncst&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rncst&theme=midnight-purple&langs_count=8&bg_color=0D1117&hide_border=true" />
 </a>
 </p>
 </details>
