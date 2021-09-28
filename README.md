@@ -1,6 +1,6 @@
 <h1 title="rncst title"> Hey 👋, I'm Sehyeon Oh</h1>
 
-<h3> below my linkedin/github/blog/instagram  </h3> 
+<h3> below my linkedin/github/blog/instagram/webportfolio  </h3> 
 <br>
 
 <a href="https://www.linkedin.com/in/%EC%84%B8%ED%98%84-%EC%98%A4-1438721b9/?originalSubdomain=in#%20add%20your%20Linkedin%20handle">
@@ -15,6 +15,10 @@
 <a href="https://www.instagram.com/ddbbosh/">
   <img align="left" alt="osh's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" >
 </a>
+<a href="https://rncstportfolio.netlify.app/">
+  <img align="left" alt="osh's web portfolio" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pagerduty.svg" >
+</a>
+
 
 
 
