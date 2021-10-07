@@ -97,7 +97,7 @@ Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=rncst&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
 <a href="https://github.com/RNCST">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rncst&theme=midnight-purple&langs_count=8&bg_color=0D1117&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rncst&exclude_repo=RNCST.github.io,awesome-devteam,k80proj_0525-0719&theme=midnight-purple&langs_count=6&layout=compact&hide=css,html,scss&bg_color=0D1117&hide_border=true" />
 </a>
 </p>
 </details>
@@ -106,7 +106,6 @@ Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
 ----
 
 ## Latest Blog Post 
-
 [2021/10/6 - 211006.TIL vue3-movie-app movie-info](https://rrrrrrrrrnnn.tistory.com/154) <br>
 [2021/10/5 - 211005.TIL vue3-movie-app loading, skeleton ui, dynamic Route Matching](https://rrrrrrrrrnnn.tistory.com/153) <br>
 [2021/10/4 - 211004.TIL vue3-movie-app actions refactory](https://rrrrrrrrrnnn.tistory.com/152) <br>
