@@ -112,6 +112,7 @@ Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
 ----
 
 ## Latest Blog Post 
+[2021/10/8 - 211008.TIL vuex](https://rrrrrrrrrnnn.tistory.com/155) <br>
 [2021/10/6 - 211006.TIL vue3-movie-app movie-info](https://rrrrrrrrrnnn.tistory.com/154) <br>
 [2021/10/5 - 211005.TIL vue3-movie-app loading, skeleton ui, dynamic Route Matching](https://rrrrrrrrrnnn.tistory.com/153) <br>
 [2021/10/4 - 211004.TIL vue3-movie-app actions refactory](https://rrrrrrrrrnnn.tistory.com/152) <br>
@@ -121,4 +122,3 @@ Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
 [2021/10/1 - 211001.TIL axios](https://rrrrrrrrrnnn.tistory.com/148) <br>
 [2021/10/1 - 211001.TIL movie-search-app - search bar](https://rrrrrrrrrnnn.tistory.com/147) <br>
 [2021/9/30 - 210930.TIL Vue Router(next), Bootstrap.scss](https://rrrrrrrrrnnn.tistory.com/146) <br>
-[2021/9/30 - 210930.TIL vue3 composition Api](https://rrrrrrrrrnnn.tistory.com/145) <br>
