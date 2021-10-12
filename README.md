@@ -112,6 +112,7 @@ Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
 ----
 
 ## Latest Blog Post 
+[2021/10/11 - 211011.TIL Netlify env variable, netlify cli](https://rrrrrrrrrnnn.tistory.com/159) <br>
 [2021/10/10 - 211011.TIL Netlify Serverless Function](https://rrrrrrrrrnnn.tistory.com/158) <br>
 [2021/10/10 - 211011.TIL SPA](https://rrrrrrrrrnnn.tistory.com/157) <br>
 [2021/10/10 - 211010.TIL vue router](https://rrrrrrrrrnnn.tistory.com/156) <br>
@@ -121,4 +122,3 @@ Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
 [2021/10/4 - 211004.TIL vue3-movie-app actions refactory](https://rrrrrrrrrnnn.tistory.com/152) <br>
 [2021/10/4 - 211004.TIL js callback , promise, async await](https://rrrrrrrrrnnn.tistory.com/151) <br>
 [2021/10/3 - 211003.TIL movie-search-app - search](https://rrrrrrrrrnnn.tistory.com/150) <br>
-[2021/10/1 - 21.10.01.TIL vuex](https://rrrrrrrrrnnn.tistory.com/149) <br>
