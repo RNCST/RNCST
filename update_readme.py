@@ -46,8 +46,9 @@ markdown_text = """<h1 title="rncst title"> Hey 👋, I'm Sehyeon Oh</h1>
 Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
  
 
-<!--   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rk51320">
+<a href="https://solved.ac/rk51320">
+    <img align="right"  height="auto" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rk51320"/>
+</a>
 <!-- <img align="right" alt="GIF" height="250px" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/> -->
 
 
