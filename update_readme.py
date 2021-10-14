@@ -13,7 +13,8 @@ for idx, feed in enumerate(rss_feed['entries']):
     if idx > MAX_POST_NUM:
         break
     feed_date = feed['published_parsed']
-    latest_blog_post_list += f"[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
+#     latest_blog_post_list += f"[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
+    latest_blog_post_list += f"[{feed['title']}]({feed['link']}) <br>\n"
 
 markdown_text = """<h1 title="rncst title"> Hey 👋, I'm Sehyeon Oh</h1>
 
