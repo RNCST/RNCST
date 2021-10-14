@@ -113,6 +113,7 @@ Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
 ----
 
 ## Latest Blog Post 
+[2021/10/13 - 211012.TIL shallowMount, Component, route test](https://rrrrrrrrrnnn.tistory.com/161) <br>
 [2021/10/12 - 211012.TIL Unit test, jest](https://rrrrrrrrrnnn.tistory.com/160) <br>
 [2021/10/11 - 211011.TIL Netlify env variable, netlify cli](https://rrrrrrrrrnnn.tistory.com/159) <br>
 [2021/10/10 - 211011.TIL Netlify Serverless Function](https://rrrrrrrrrnnn.tistory.com/158) <br>
@@ -122,4 +123,3 @@ Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
 [2021/10/6 - 211006.TIL vue3-movie-app movie-info](https://rrrrrrrrrnnn.tistory.com/154) <br>
 [2021/10/5 - 211005.TIL vue3-movie-app loading, skeleton ui, dynamic Route Matching](https://rrrrrrrrrnnn.tistory.com/153) <br>
 [2021/10/4 - 211004.TIL vue3-movie-app actions refactory](https://rrrrrrrrrnnn.tistory.com/152) <br>
-[2021/10/4 - 211004.TIL js callback , promise, async await](https://rrrrrrrrrnnn.tistory.com/151) <br>
