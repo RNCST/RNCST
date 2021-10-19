@@ -60,6 +60,10 @@ Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&-square&logo=Vue.js&logoColor=ffffff)
 <!-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff) -->
 
+![Excel](http://img.shields.io/badge/-Excel-217346?style=flat&-square&logo=MicrosoftExcel&logoColor=ffffff)
+![GoogleSheets](http://img.shields.io/badge/-GoogleSheets-34A853?style=flat&-square&logo=GoogleSheets&logoColor=ffffff)
+![R](http://img.shields.io/badge/-R-276DC3?style=flat&-square&logo=R&logoColor=ffffff)
+
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat&-square&logo=npm)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&-square&logo=Oracle)
 ![ApacheTomcat](https://img.shields.io/badge/-Apache_Tomcat-F8DC75?style=flat&-square&logo=apache-tomcat&logoColor=181717)
