@@ -119,7 +119,8 @@ Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
 ----
 
 ## Latest Blog Post 
-[211019.TIL SQL basic](https://rrrrrrrrrnnn.tistory.com/162) <br>
+[211020.TIL SQL(postgreSQL) type, subquery, ddl dml](https://rrrrrrrrrnnn.tistory.com/163) <br>
+[211019.TIL SQL(postgreSQL) basic](https://rrrrrrrrrnnn.tistory.com/162) <br>
 [211012.TIL shallowMount, Component, route test](https://rrrrrrrrrnnn.tistory.com/161) <br>
 [211012.TIL Unit test, jest](https://rrrrrrrrrnnn.tistory.com/160) <br>
 [211011.TIL Netlify env variable, netlify cli](https://rrrrrrrrrnnn.tistory.com/159) <br>
@@ -128,4 +129,3 @@ Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
 [211010.TIL vue router](https://rrrrrrrrrnnn.tistory.com/156) <br>
 [211008.TIL vuex](https://rrrrrrrrrnnn.tistory.com/155) <br>
 [211006.TIL vue3-movie-app movie-info](https://rrrrrrrrrnnn.tistory.com/154) <br>
-[211005.TIL vue3-movie-app loading, skeleton ui, dynamic Route Matching](https://rrrrrrrrrnnn.tistory.com/153) <br>
