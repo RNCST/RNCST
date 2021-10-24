@@ -29,8 +29,12 @@
 Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
  
 
-<a href="https://solved.ac/rk51320">
+<!--<a href="https://solved.ac/rk51320">
     <img align="right"  height="auto" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rk51320"/>
+</a> -->
+
+<a href="https://leetcode.com/RNCST/">
+    <img align="right" height= "auto" src="https://leetcode-stats-six.vercel.app/api?username=RNCST&theme=dark"/>
 </a>
 <!-- <img align="right" alt="GIF" height="250px" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/> -->
 
@@ -119,6 +123,9 @@ Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
 ----
 
 ## Latest Blog Post 
+[211024.TIL Anaconda, pandas](https://rrrrrrrrrnnn.tistory.com/166) <br>
+[211024.TIL Python for while if](https://rrrrrrrrrnnn.tistory.com/165) <br>
+[211024.TIL Python data type](https://rrrrrrrrrnnn.tistory.com/164) <br>
 [211020.TIL SQL(postgreSQL) type, subquery, ddl dml](https://rrrrrrrrrnnn.tistory.com/163) <br>
 [211019.TIL SQL(postgreSQL) basic](https://rrrrrrrrrnnn.tistory.com/162) <br>
 [211012.TIL shallowMount, Component, route test](https://rrrrrrrrrnnn.tistory.com/161) <br>
@@ -126,6 +133,3 @@ Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
 [211011.TIL Netlify env variable, netlify cli](https://rrrrrrrrrnnn.tistory.com/159) <br>
 [211011.TIL Netlify Serverless Function](https://rrrrrrrrrnnn.tistory.com/158) <br>
 [211011.TIL SPA](https://rrrrrrrrrnnn.tistory.com/157) <br>
-[211010.TIL vue router](https://rrrrrrrrrnnn.tistory.com/156) <br>
-[211008.TIL vuex](https://rrrrrrrrrnnn.tistory.com/155) <br>
-[211006.TIL vue3-movie-app movie-info](https://rrrrrrrrrnnn.tistory.com/154) <br>
