@@ -47,8 +47,12 @@ markdown_text = """<h1 title="rncst title"> Hey 👋, I'm Sehyeon Oh</h1>
 Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
  
 
-<a href="https://solved.ac/rk51320">
+<!--<a href="https://solved.ac/rk51320">
     <img align="right"  height="auto" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rk51320"/>
+</a> -->
+
+<a href="https://leetcode.com/RNCST/">
+    <img align="right" height= "auto" src="https://leetcode-stats-six.vercel.app/api?username=RNCST&theme=dark"/>
 </a>
 <!-- <img align="right" alt="GIF" height="250px" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/> -->
 
