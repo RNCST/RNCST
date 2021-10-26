@@ -123,6 +123,8 @@ Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
 ----
 
 ## Latest Blog Post 
+[211025.TIL pandas data preprocessing 1](https://rrrrrrrrrnnn.tistory.com/168) <br>
+[211025.TIL pandas Series, loc, iloc](https://rrrrrrrrrnnn.tistory.com/167) <br>
 [211024.TIL Anaconda, pandas](https://rrrrrrrrrnnn.tistory.com/166) <br>
 [211024.TIL Python for while if](https://rrrrrrrrrnnn.tistory.com/165) <br>
 [211024.TIL Python data type](https://rrrrrrrrrnnn.tistory.com/164) <br>
@@ -131,5 +133,3 @@ Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
 [211012.TIL shallowMount, Component, route test](https://rrrrrrrrrnnn.tistory.com/161) <br>
 [211012.TIL Unit test, jest](https://rrrrrrrrrnnn.tistory.com/160) <br>
 [211011.TIL Netlify env variable, netlify cli](https://rrrrrrrrrnnn.tistory.com/159) <br>
-[211011.TIL Netlify Serverless Function](https://rrrrrrrrrnnn.tistory.com/158) <br>
-[211011.TIL SPA](https://rrrrrrrrrnnn.tistory.com/157) <br>
