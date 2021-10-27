@@ -123,6 +123,8 @@ Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
 ----
 
 ## Latest Blog Post 
+[211026.TIL pandas data concat, merge](https://rrrrrrrrrnnn.tistory.com/170) <br>
+[211026.TIL pandas pivot table](https://rrrrrrrrrnnn.tistory.com/169) <br>
 [211025.TIL pandas data preprocessing 1](https://rrrrrrrrrnnn.tistory.com/168) <br>
 [211025.TIL pandas Series, loc, iloc](https://rrrrrrrrrnnn.tistory.com/167) <br>
 [211024.TIL Anaconda, pandas](https://rrrrrrrrrnnn.tistory.com/166) <br>
@@ -131,5 +133,3 @@ Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
 [211020.TIL SQL(postgreSQL) type, subquery, ddl dml](https://rrrrrrrrrnnn.tistory.com/163) <br>
 [211019.TIL SQL(postgreSQL) basic](https://rrrrrrrrrnnn.tistory.com/162) <br>
 [211012.TIL shallowMount, Component, route test](https://rrrrrrrrrnnn.tistory.com/161) <br>
-[211012.TIL Unit test, jest](https://rrrrrrrrrnnn.tistory.com/160) <br>
-[211011.TIL Netlify env variable, netlify cli](https://rrrrrrrrrnnn.tistory.com/159) <br>
