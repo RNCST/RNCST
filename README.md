@@ -67,6 +67,7 @@ Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
 ![Excel](http://img.shields.io/badge/-Excel-217346?style=flat&-square&logo=MicrosoftExcel&logoColor=ffffff)
 ![GoogleSheets](http://img.shields.io/badge/-GoogleSheets-34A853?style=flat&-square&logo=GoogleSheets&logoColor=ffffff)
 ![R](http://img.shields.io/badge/-R-276DC3?style=flat&-square&logo=R&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-61DAFB?style=flat-square&logo=Python&logoColor=ffffff)
 ![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&-square&logo=PostgreSQL&logoColor=ffffff)
 ![DBeaver](http://img.shields.io/badge/-DBeaver-362722?style=flat&-square&logoColor=ffffff)
 
