@@ -124,6 +124,7 @@ Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
 ----
 
 ## Latest Blog Post 
+[211101.TIL 따릉이 data 분석 실습](https://rrrrrrrrrnnn.tistory.com/171) <br>
 [211026.TIL pandas data concat, merge](https://rrrrrrrrrnnn.tistory.com/170) <br>
 [211026.TIL pandas pivot table](https://rrrrrrrrrnnn.tistory.com/169) <br>
 [211025.TIL pandas data preprocessing 1](https://rrrrrrrrrnnn.tistory.com/168) <br>
@@ -133,4 +134,3 @@ Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
 [211024.TIL Python data type](https://rrrrrrrrrnnn.tistory.com/164) <br>
 [211020.TIL SQL(postgreSQL) type, subquery, ddl dml](https://rrrrrrrrrnnn.tistory.com/163) <br>
 [211019.TIL SQL(postgreSQL) basic](https://rrrrrrrrrnnn.tistory.com/162) <br>
-[211012.TIL shallowMount, Component, route test](https://rrrrrrrrrnnn.tistory.com/161) <br>
