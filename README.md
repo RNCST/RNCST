@@ -25,8 +25,6 @@
 
 <br/>
 <h2> </h2>
-
-Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
  
 
 <!--<a href="https://solved.ac/rk51320">
