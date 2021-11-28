@@ -43,8 +43,6 @@ markdown_text = """<h1 title="rncst title"> Hey 👋, I'm Sehyeon Oh</h1>
 
 <br/>
 <h2> </h2>
-
-Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
  
 
 <!--<a href="https://solved.ac/rk51320">
