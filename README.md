@@ -42,8 +42,6 @@ Want To Be **WEB-APP JUNIOR DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m Studying about WEB-APP DEVELOP
-- 🤔 My interest lies in front-end web development
 - 💬 Contact me about anything! 
 - 💪🏼 Future Goals: Learn more technologies
 - 📫 Email me at [rk51320928@gmail.com](mailto:rk51320928@gmail.com). 
