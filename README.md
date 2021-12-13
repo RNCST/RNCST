@@ -120,6 +120,8 @@
 ----
 
 ## Latest Blog Post 
+[211213.TIL? Github 프로필 커밋 자동화하기](https://rrrrrrrrrnnn.tistory.com/173) <br>
+[211213.ETC Log4j 보안 취약점 이슈](https://rrrrrrrrrnnn.tistory.com/172) <br>
 [211101.TIL 따릉이 data 분석 실습](https://rrrrrrrrrnnn.tistory.com/171) <br>
 [211026.TIL pandas data concat, merge](https://rrrrrrrrrnnn.tistory.com/170) <br>
 [211026.TIL pandas pivot table](https://rrrrrrrrrnnn.tistory.com/169) <br>
@@ -128,5 +130,3 @@
 [211024.TIL Anaconda, pandas](https://rrrrrrrrrnnn.tistory.com/166) <br>
 [211024.TIL Python for while if](https://rrrrrrrrrnnn.tistory.com/165) <br>
 [211024.TIL Python data type](https://rrrrrrrrrnnn.tistory.com/164) <br>
-[211020.TIL SQL(postgreSQL) type, subquery, ddl dml](https://rrrrrrrrrnnn.tistory.com/163) <br>
-[211019.TIL SQL(postgreSQL) basic](https://rrrrrrrrrnnn.tistory.com/162) <br>
