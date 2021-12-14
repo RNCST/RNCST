@@ -120,6 +120,7 @@
 ----
 
 ## Latest Blog Post 
+[211214 git --recursive, submodule clone](https://rrrrrrrrrnnn.tistory.com/174) <br>
 [211213.TIL? Github 프로필 커밋 자동화하기](https://rrrrrrrrrnnn.tistory.com/173) <br>
 [211213.ETC Log4j 보안 취약점 이슈](https://rrrrrrrrrnnn.tistory.com/172) <br>
 [211101.TIL 따릉이 data 분석 실습](https://rrrrrrrrrnnn.tistory.com/171) <br>
@@ -129,4 +130,3 @@
 [211025.TIL pandas Series, loc, iloc](https://rrrrrrrrrnnn.tistory.com/167) <br>
 [211024.TIL Anaconda, pandas](https://rrrrrrrrrnnn.tistory.com/166) <br>
 [211024.TIL Python for while if](https://rrrrrrrrrnnn.tistory.com/165) <br>
-[211024.TIL Python data type](https://rrrrrrrrrnnn.tistory.com/164) <br>
