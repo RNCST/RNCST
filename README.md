@@ -94,6 +94,7 @@
 ----
 
 ## Latest Blog Post 
+[220112. 21년 회고록 : IT 취업까지..](https://rrrrrrrrrnnn.tistory.com/176) <br>
 [211215.TIL JSX](https://rrrrrrrrrnnn.tistory.com/175) <br>
 [211214 git --recursive, submodule clone](https://rrrrrrrrrnnn.tistory.com/174) <br>
 [211213.TIL? Github 프로필 커밋 자동화하기](https://rrrrrrrrrnnn.tistory.com/173) <br>
@@ -103,4 +104,3 @@
 [211026.TIL pandas pivot table](https://rrrrrrrrrnnn.tistory.com/169) <br>
 [211025.TIL pandas data preprocessing 1](https://rrrrrrrrrnnn.tistory.com/168) <br>
 [211025.TIL pandas Series, loc, iloc](https://rrrrrrrrrnnn.tistory.com/167) <br>
-[211024.TIL Anaconda, pandas](https://rrrrrrrrrnnn.tistory.com/166) <br>
