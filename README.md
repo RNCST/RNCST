@@ -5,7 +5,6 @@
 [gmail]: https://img.shields.io/static/v1?style=plastic&logoWidth=30e&color=FE9700&logoColor=ffffff&label=&message=gmail&logo=gmail&#6236FF
 
 
-
 <h1 title="rncst title"> Hey 👋, I'm Sehyeon Oh</h1>
 
 [![gmail]](mailto:rk51320928@gmail.com)
@@ -95,6 +94,7 @@
 ----
 
 ## Latest Blog Post 
+[220724 2022년 반기회고](https://rrrrrrrrrnnn.tistory.com/178) <br>
 [토스이모지 Tossface](https://rrrrrrrrrnnn.tistory.com/177) <br>
 [220112. 21년 회고록 : IT 취업까지..](https://rrrrrrrrrnnn.tistory.com/176) <br>
 [211215.TIL JSX](https://rrrrrrrrrnnn.tistory.com/175) <br>
@@ -104,4 +104,3 @@
 [211101.TIL 따릉이 data 분석 실습](https://rrrrrrrrrnnn.tistory.com/171) <br>
 [211026.TIL pandas data concat, merge](https://rrrrrrrrrnnn.tistory.com/170) <br>
 [211026.TIL pandas pivot table](https://rrrrrrrrrnnn.tistory.com/169) <br>
-[211025.TIL pandas data preprocessing 1](https://rrrrrrrrrnnn.tistory.com/168) <br>
