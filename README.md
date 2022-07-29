@@ -94,6 +94,7 @@
 ----
 
 ## Latest Blog Post 
+[220728 project refactoring - kiosk 001](https://rrrrrrrrrnnn.tistory.com/179) <br>
 [220724 2022년 반기회고](https://rrrrrrrrrnnn.tistory.com/178) <br>
 [토스이모지 Tossface](https://rrrrrrrrrnnn.tistory.com/177) <br>
 [220112. 21년 회고록 : IT 취업까지..](https://rrrrrrrrrnnn.tistory.com/176) <br>
@@ -103,4 +104,3 @@
 [211213.ETC Log4j 보안 취약점 이슈](https://rrrrrrrrrnnn.tistory.com/172) <br>
 [211101.TIL 따릉이 data 분석 실습](https://rrrrrrrrrnnn.tistory.com/171) <br>
 [211026.TIL pandas data concat, merge](https://rrrrrrrrrnnn.tistory.com/170) <br>
-[211026.TIL pandas pivot table](https://rrrrrrrrrnnn.tistory.com/169) <br>
