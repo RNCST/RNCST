@@ -1,6 +1,7 @@
 import feedparser
 
-url = "https://rrrrrrrrrnnn.tistory.com/rss"
+# url = "https://rrrrrrrrrnnn.tistory.com/rss"
+url = "https://v2.velog.io/rss/rncst__"
 rss_feed = feedparser.parse(url)
 
 MAX_POST_NUM = 10
