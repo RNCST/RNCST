@@ -94,4 +94,4 @@
 ----
 
 ## Latest Blog Post 
-[TEST](https://velog.io/@rncst__/TEST) <br>
+[어느새 1년](https://velog.io/@rncst__/%EC%96%B4%EB%8A%90%EC%83%88-1%EB%85%84) <br>
