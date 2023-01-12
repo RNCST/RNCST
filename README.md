@@ -1,38 +1,54 @@
-[resume]: https://img.shields.io/static/v1?style=plastic&logoWidth=30&color=000000&logoColor=ffffff&label=&message=Resume&logo=notion&#000000
-[blog]: https://img.shields.io/static/v1?style=plastic&logoWidth=30&color=00c7b7&logoColor=ffffff&label=&message=Blog&logo=blogger&#00C7B7
-[linkedin]: https://img.shields.io/static/v1?style=plastic&logoWidth=30&color=0077b5&logoColor=ffffff&label=&message=LinkedIn&logo=linkedin&#0077B5
-[WebPortfolio]: https://img.shields.io/static/v1?style=plastic&logoWidth=30e&color=6236FF&logoColor=ffffff&label=&message=WebPortfolio&logo=Netlify&#6236FF
+
 [gmail]: https://img.shields.io/static/v1?style=plastic&logoWidth=30e&color=FE9700&logoColor=ffffff&label=&message=gmail&logo=gmail&#6236FF
 
 
 <h1 title="rncst title"> Hey 👋, I'm Sehyeon Oh</h1>
 
+**CONTACT ME**  
+
 [![gmail]](mailto:rk51320928@gmail.com)
-[![Resume]](https://www.notion.so/5aa790d2f44340049e03b17ecca4477d)
-[![Blog]](https://rrrrrrrrrnnn.tistory.com/)
-[![LinkedIn]](https://www.linkedin.com/in/%EC%84%B8%ED%98%84-%EC%98%A4-1438721b9/?originalSubdomain=in#%20add%20your%20Linkedin%20handle)
-[![WebPortfolio]](https://rncstportfolio.netlify.app/)
 
 <!--<a href="https://solved.ac/rk51320">
     <img align="right"  height="auto" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rk51320"/>
 </a> -->
-
+<!--
 <a href="https://leetcode.com/RNCST/">
     <img align="right" height= "150" src="https://leetcode-stats-six.vercel.app/api?username=RNCST&theme=dark"/>
 </a>
+-->
 <!-- <img align="right" alt="GIF" height="250px" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/> -->
 
-- 🎯 Goal(2021): Start & Work In IT
-- 🎯 Goal(2022): Study Algorithm, Front-End & Move to Front-End
-- 🎯 Goal(20xx): Reliable Developer 
 
 
-**Try to Use Languages and Tools:**  
+**LANGUAGE**  
 
-![Java](http://img.shields.io/badge/-Java-5B4638?style=flat&-square&logo=java&logoColor=ffffff)
+![Java](http://img.shields.io/badge/-Java-5B4638?style=flat&-square&logo=Java&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&-square&logo=Bootstrap)
+![Python](https://img.shields.io/badge/-Python-61DAFB?style=flat-square&logo=Python&logoColor=ffffff)
+
+**FRAMEWORK**
+
+![Spring](http://img.shields.io/badge/-Spring-5B4638?style=flat&-square&logo=Spring&logoColor=006633&color=%FFFFFF)
+![Spring_Boot](http://img.shields.io/badge/-Spring_Boot-5B4638?style=flat&-square&logo=SpringBoot&logoColor=FFFFFF&color=006600)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&-square&logo=Vue.js&logoColor=ffffff)
+
+**DB**
+
+![Oracle](https://img.shields.io/badge/-Oracle-%23F7DF1C?style=flat&-square&logo=oracle&logoColor=990000&labelColor=E0E0E0&color=E0E0E0)
+
+**IDE**
+
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&-square&logo=visual-studio-code&logoColor=ffffff)
+![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat&-square&logo=eclipse&logoColor=ffffff)
+![IntelliJ-IDEA](http://img.shields.io/badge/-intelliJ-2C2255?style=flat&-square&logo=IntelliJ%20IDEA&logoColor=ffffff)
+![OrangeForOracle](http://img.shields.io/badge/-OrangeForOracle-DACD3D?style=flat&-square&logo=%DACD3D&logoColor=ffffff)
+![Toad](http://img.shields.io/badge/-ToadForOracle-3da747?style=flat&-square&logo=%20IDEA&logoColor=ffffff)
+![SQLDeveloper](http://img.shields.io/badge/-SQLDeveloper-8aa0aa?style=flat&-square&logo=%20IDEA&logoColor=ffffff)
+
+
+**VCS**
+
+![Vcs](https://img.shields.io/badge/-GIT-%e94e31?style=flat&-square&logo=git&logoColor=990000&labelColor=E0E0E0&color=E0E0E0)
 
 <!-- ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=fla&t-square&logo=Node.js&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&-square&logo=html5&logoColor=ffffff)
@@ -66,14 +82,14 @@
 
 
 
-
+<!--
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
   <strong>Github Stats : </strong>
 </summary>
 <br>
-  
+
 <p align="center">
 <a href="https://github.com/RNCST">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=rncst&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
@@ -83,7 +99,8 @@
 </a>
 </p>
 </details>
-<br>
+//<br>
+-->
 
 <div align="center">
   
